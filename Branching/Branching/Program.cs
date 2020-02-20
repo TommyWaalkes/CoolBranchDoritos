@@ -6,6 +6,7 @@ namespace Branching
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Good bye moon");
             Console.WriteLine("Wendys has the best burgers");
             Console.WriteLine("Hello World!");
             Console.WriteLine("I want Frito Pie");
